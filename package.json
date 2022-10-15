@@ -1,7 +1,5 @@
 {
-  "name": "deploytest-something",
-  "version": "0.0.1",
   "dependencies": {
-    "diff2html": "2.0.7"
+    "express": "^4.18.2"
   }
 }
